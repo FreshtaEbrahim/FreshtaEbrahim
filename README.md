@@ -4,7 +4,7 @@ I'm Freshta (she/her), a full-stack software engineer specialising in JavaScript
 <br/>
 
 #### Tools and Technologies :wrench:
-<p align="center">
+<p>
 <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
   
 <img src="https://seeklogo.net/wp-content/uploads/2020/09/react-logo-512x512.png" alt="React" height="40" style="vertical-align:top; margin:4px">
@@ -37,6 +37,9 @@ My GitHub reflects my journey into programming, that I entered through the *[Sch
 
 Feel free to drop me a message, I'm always down to talk tech! Connect with me on *[LinkedIn](https://www.linkedin.com/in/freshtaebrahim)* on drop me an email at *<freshtaebrahim@hotmail.co.uk>* :e-mail:
 
+<br/>
+
+<img align="center" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=FreshtaEbrahim&count_private=true&show_icons=true&theme=buefy" />
 
 
 
