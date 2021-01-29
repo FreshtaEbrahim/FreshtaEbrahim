@@ -38,8 +38,8 @@ My GitHub reflects my journey into programming, that I entered through the *[Sch
 Feel free to drop me a message, I'm always down to talk tech! Connect with me on *[LinkedIn](https://www.linkedin.com/in/freshtaebrahim)* on drop me an email at *<freshtaebrahim@hotmail.co.uk>* :e-mail:
 
 <br/>
-
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=FreshtaEbrahim&hide=php&theme=buefy">
 <img align="center" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=FreshtaEbrahim&count_private=true&show_icons=true&theme=buefy" />
-
+</a>
 
 
