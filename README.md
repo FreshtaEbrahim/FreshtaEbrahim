@@ -1,6 +1,6 @@
 ### Hey 👋
 
-I'm Freshta (she/her), a full-stack software engineer specialising in JavaScript technologies and agile team collaboration. My affinity lies in using code to create scalable solutions to real life problems, with a fondness of React and curiousity in cloud computing. When I'm not doing that, you'll find me hosting radio shows broadcasted on global radio stations NTS and Foundation FM :headphones:
+I'm Freshta (she/her), a full-stack software engineer specialising in JavaScript technologies and agile team collaboration. My affinity lies in using code to create scalable solutions to real life problems, with a fondness of React. When I'm not doing that, you'll find me hosting radio shows broadcasted on global radio stations NTS and Foundation FM :headphones:
 <br/>
 
 #### Tools and Technologies :wrench:
