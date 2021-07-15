@@ -35,7 +35,7 @@ I'm Freshta (she/her), a software engineer specialising in JavaScript technologi
 
 My GitHub reflects my journey into programming, that I entered through the *[School of Code](https://www.schoolofcode.co.uk/)* bootcamp. Have fun exploring my development and progress :blush:
 
-Feel free to drop me a message, I'm always down to talk tech! Connect with me on *[LinkedIn](https://www.linkedin.com/in/freshtaebrahim)* on drop me an email at *<freshtaebrahim@hotmail.co.uk>* :e-mail:
+Feel free to drop me a message, you can connect with me on *[LinkedIn](https://www.linkedin.com/in/freshtaebrahim)* on drop me an email at *<freshtaebrahim@hotmail.co.uk>* :e-mail:
 
 <br/>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=FreshtaEbrahim&count_private=true&show_icons=true&theme=buefy">
